@@ -1,5 +1,5 @@
 # FRIDA-DEXDump
-
+安卓万能脱壳工具，qq群友介绍，未研究证实
 ![screenshot](screenshot.png)
 
 
